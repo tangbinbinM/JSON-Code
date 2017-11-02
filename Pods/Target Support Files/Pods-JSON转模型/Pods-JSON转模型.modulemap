@@ -1,0 +1,6 @@
+framework module Pods_JSON___ {
+  umbrella header "Pods-JSON转模型-umbrella.h"
+
+  export *
+  module * { export * }
+}
